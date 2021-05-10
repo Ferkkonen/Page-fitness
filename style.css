@@ -1,0 +1,41 @@
+body {
+    background-color: #ededed;    
+  }
+.Middle-image {
+    position: relative;
+  text-align: center;
+  color: #007965;
+  } 
+.Text-over-img {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 87px;
+    text-align: left;
+    position: absolute;
+    top: 32%;
+    left: 50%;
+}
+.btn {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 87px;
+    text-align: left;
+    position: absolute;
+    top: 66%;
+    left: 56%;
+}
+.btn {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    color: #fcf8e8;
+    font-size: 37px;
+    background: #55b3b1;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #8db596;
+    text-decoration: none;
+  }
+16c79a
